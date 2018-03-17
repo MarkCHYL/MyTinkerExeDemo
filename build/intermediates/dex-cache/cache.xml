@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/mark/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/40ef57af913da808df426d9cfe73dd67/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/mark/Desktop/Document/GitHub/MyTinkerExeDemo/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/eecb584af99d0bd1b042c19bf2131821/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/mark/Desktop/Document/GitHub/MyTinkerExeDemo/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/8f343a2047b95a50f3b732e838fc195f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/mark/Desktop/Document/GitHub/MyTinkerExeDemo/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/e1c0630dfe1a0cabc1ffda520d7b1cbd/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/mark/Desktop/Document/GitHub/MyTinkerExeDemo/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/4f8f217eca4a2bc7c76b59acaba25422/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/mark/Desktop/Document/GitHub/MyTinkerExeDemo/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ec527546f5a02eb68ded73840e22e8a1/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/mark/Desktop/Document/GitHub/MyTinkerExeDemo/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e68336363fe53b96b41073833737cdc6/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/mark/Desktop/Document/GitHub/MyTinkerExeDemo/app/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b61b3f7f3742ef1d5a1862ddc5768144/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/mark/Desktop/Document/GitHub/MyTinkerExeDemo/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/a60691d0476b54f8a2a307df44e95777/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/mark/Desktop/Document/GitHub/MyTinkerExeDemo/app/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/82b4ded55624def1922ad79e33394f00/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/mark/Desktop/Document/GitHub/MyTinkerExeDemo/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/.gradle/caches/transforms-1/files-1.1/crashreport_upgrade-1.3.4.aar/0d88da6237fc9f29f9d9b8f96fd1589e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="998251183fdbfb40a8d2c5191e4d55edb714a2ba">
+        <dex dex="/Users/mark/Desktop/Document/GitHub/MyTinkerExeDemo/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/595af82dd35663579b0f5b0e4b39cf1a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/mark/Desktop/Document/GitHub/MyTinkerExeDemo/app/build/intermediates/transforms/preDex/release/15.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,3 @@
+# Referenced at /Users/mark/Desktop/Document/GitHub/MyTinkerExeDemo/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:19
+-keep class com.exe.mark.mytinkerexedemo.MyApplication { <init>(...); }
+
